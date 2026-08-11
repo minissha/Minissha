@@ -1,177 +1,153 @@
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/hero-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/hero-light.svg">
-
-  <img
-    src="./assets/hero-light.svg"
-    alt="Minissha Thakur"
-    width="100%">
-</picture>
-
-<br>
-
 <div align="center">
 
-<a href="https://github.com/minissha">
-  <img src="https://img.shields.io/badge/GitHub-171519?style=flat-square&logo=github&logoColor=white">
-</a>
-
-&nbsp;
-
-<a href="https://minissha-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-D45B91?style=flat-square&logo=googlechrome&logoColor=white">
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/minissha-thakur-3496962a9">
-  <img src="https://img.shields.io/badge/LinkedIn-171519?style=flat-square&logo=linkedin&logoColor=white">
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0a2e,100:2d0a3e&height=140&section=header" width="100%"/>
 
 </div>
 
-<br>
-
 <table>
 <tr>
+<td width="65%" valign="top">
 
-<td width="30%" valign="top">
+```
+$ whoami
+```
 
-### `> about me`
+# <span style="color:#ff2e8b">MINISSHA</span> THAKUR
 
-Building things with software,  
-vision, and intelligent systems.
+**`AI` · `ROBOTICS` · `COMPUTER VISION`**
 
-Always exploring something new.
+```
+$ cat mission.txt
+Building things with code,
+exploring ideas, shipping progress.
+```
 
-`<3`
-
-</td>
-
-<td width="40%" valign="top">
-
-### `> currently exploring`
-
-`Computer Vision & 3D Perception` · `Robotics`
-
-`Graph Neural Networks` · `Vision-Language Models`
-
-`Multimodal Learning` · `Generative Models`
-
-`Spatial Reasoning` · `SLAM & Visual Odometry`
-
-`Robot Learning` · `Temporal Graph Learning`
-
-`Reinforcement Learning` · `AI Safety`
+<a href="https://github.com/minissharest"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff2e8b" /></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=ff2e8b" /></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff2e8b" /></a>
 
 </td>
+<td width="35%" align="center">
 
-<td width="30%" valign="top">
-
-### `> tech`
-
-`Python` · `C` · `C++` · `SQL`
-
-`PyTorch` · `TensorFlow` · `Keras`
-
-`OpenCV` · `Hugging Face` · `Transformers`
-
-`scikit-learn` · `SciPy`
-
-`NumPy` · `Pandas` · `Matplotlib`
-
-`JavaScript` · `HTML` · `CSS` · `PHP`
-
-`React` · `Node.js` · `Express.js`
-
-`MongoDB` · `MySQL`
-
-`Git` · `GitHub` · `Linux`
-
-`Jupyter` · `VS Code` · `Colab` · `Streamlit`
+<img src="./assets/penguin.png" width="260"/>
 
 </td>
-
 </tr>
 </table>
 
-<br>
+<table>
+<tr><td>
 
-## `projects`
+```
+$ status
+> code
+> learn
+> build
+> repeat
+> _
+```
+
+</td></tr>
+</table>
+
+---
+
+### `>` about_me
+
+Building things with software, vision, and intelligent systems.
+Always exploring something new.
+
+### `>` currently_exploring
+
+`Computer Vision & 3D Perception`&nbsp;&nbsp;`Robotics`&nbsp;&nbsp;`Graph Neural Networks`
+`Vision-Language Models`&nbsp;&nbsp;`Multimodal Learning`&nbsp;&nbsp;`Generative Models`
+`Spatial Reasoning`&nbsp;&nbsp;`SLAM & Visual Odometry`&nbsp;&nbsp;`Robot Learning`
+`Temporal Graph Learning`&nbsp;&nbsp;`Reinforcement Learning`&nbsp;&nbsp;`AI Safety`
+
+### `>` tech
+
+<p>
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+### `>` projects
 
 <table>
 <tr>
-
 <td width="20%" valign="top">
 
-### ✦ [SpatialVLM-Eval](https://github.com/minissha/SpatialVLM-Eval)
+**🧠 SpatialVLM-Eval**
 
-Exploring spatial reasoning and robustness in vision-language models.
+Exploring spatial reasoning and object grounding in vision-language models.
 
-`Python`  
-`PyTorch`  
-`Hugging Face`
+`Python` `PyTorch` `Hugging Face`
 
 </td>
-
 <td width="20%" valign="top">
 
-### ✦ [VO-X](https://github.com/minissha/VO-X)
+**📍 VO-X**
 
 Monocular visual odometry with classical and learned feature pipelines.
 
-`Python`  
-`OpenCV`  
-`NumPy`
+`Python` `OpenCV` `TensorFlow`
 
 </td>
-
 <td width="20%" valign="top">
 
-### ✦ Eye-AI
+**👁️ Eye-AI**
 
 Glaucoma detection from retinal fundus images using deep learning.
 
-`Python`  
-`TensorFlow`  
-`Keras`
+`Python` `TensorFlow`
 
 </td>
-
 <td width="20%" valign="top">
 
-### ✦ Malicious Prompt Detection
+**🛡️ Malicious Prompt Detection**
 
 NLP-based detection of potentially malicious prompts.
 
-`Python`  
-`scikit-learn`  
-`NLP`
+`Python` `NLP`
 
 </td>
-
 <td width="20%" valign="top">
 
-### ✦ Authentify
+**🔐 Authentify**
 
 Web-based document verification using hashing.
 
-`PHP`  
-`HTML`  
-`CSS`  
-`JavaScript`
+`PHP` `HTML` `MySQL`
 
 </td>
-
 </tr>
 </table>
 
-<br>
+---
+
+<div align="center">
+
+
 
 ## `activity`
 
