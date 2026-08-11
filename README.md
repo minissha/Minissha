@@ -74,19 +74,21 @@ TOOLS
 Git · GitHub · Linux · VS Code
 Jupyter · Google Colab · Streamlit
 
+---
+
 ## `projects`
 
 ### ✦ [SpatialVLM-Eval](https://github.com/minissha/SpatialVLM-Eval)
 
-Exploring spatial reasoning and robustness in vision-language models.
+Evaluating spatial reasoning in vision-language models through benchmarking and adversarial probing.
 
-`Python` · `PyTorch` · `Hugging Face` · `Transformers` · `OpenCV`
+`Python` · `PyTorch` · `Hugging Face` · `Transformers`
 
 ---
 
 ### ✦ [VO-X](https://github.com/minissha/VO-X)
 
-Monocular visual odometry exploring classical and learned visual perception.
+Modular monocular visual odometry comparing classical ORB with SuperPoint + LightGlue.
 
 `Python` · `OpenCV` · `NumPy` · `PyTorch`
 
