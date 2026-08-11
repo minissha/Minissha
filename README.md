@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0a2e,100:2d0a3e&height=140&section=header" width="100%"/>
+<picture>
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:2d0a3e,100:ff2e8b&height=140&section=header" width="100%"/>
+</picture>
 
 </div>
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="62%" valign="top">
 
 ```
 $ whoami
@@ -22,14 +24,18 @@ Building things with code,
 exploring ideas, shipping progress.
 ```
 
-<a href="https://github.com/minissharest"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff2e8b" /></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=ff2e8b" /></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff2e8b" /></a>
+<a href="https://github.com/minissharest"><img src="https://img.shields.io/badge/GitHub-ff2e8b?style=for-the-badge&logo=github&logoColor=0d0221" /></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-ff2e8b?style=for-the-badge&logo=firefox&logoColor=0d0221" /></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-ff2e8b?style=for-the-badge&logo=linkedin&logoColor=0d0221" /></a>
 
 </td>
-<td width="35%" align="center">
+<td width="38%" align="center">
 
-<img src="./assets/penguin.png" width="260"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/penguin-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/penguin-light.png" />
+  <img alt="coding penguin" src="./assets/penguin-dark.png" width="280"/>
+</picture>
 
 </td>
 </tr>
@@ -52,46 +58,54 @@ $ status
 
 ---
 
-### `>` about_me
+### <span style="color:#ff2e8b">></span> about_me
 
 Building things with software, vision, and intelligent systems.
 Always exploring something new.
 
-### `>` currently_exploring
+### <span style="color:#ff2e8b">></span> currently_exploring
 
-`Computer Vision & 3D Perception`&nbsp;&nbsp;`Robotics`&nbsp;&nbsp;`Graph Neural Networks`
-`Vision-Language Models`&nbsp;&nbsp;`Multimodal Learning`&nbsp;&nbsp;`Generative Models`
-`Spatial Reasoning`&nbsp;&nbsp;`SLAM & Visual Odometry`&nbsp;&nbsp;`Robot Learning`
-`Temporal Graph Learning`&nbsp;&nbsp;`Reinforcement Learning`&nbsp;&nbsp;`AI Safety`
+![](https://img.shields.io/badge/-Computer%20Vision%20%26%203D%20Perception-2d0a3e?style=flat-square&labelColor=ff2e8b)
+![](https://img.shields.io/badge/-Robotics-2d0a3e?style=flat-square&labelColor=ff2e8b)
+![](https://img.shields.io/badge/-Graph%20Neural%20Networks-2d0a3e?style=flat-square&labelColor=ff2e8b)
+![](https://img.shields.io/badge/-Vision--Language%20Models-2d0a3e?style=flat-square&labelColor=ff2e8b)
+![](https://img.shields.io/badge/-Multimodal%20Learning-2d0a3e?style=flat-square&labelColor=ff2e8b)
+![](https://img.shields.io/badge/-Generative%20Models-2d0a3e?style=flat-square&labelColor=ff2e8b)
+![](https://img.shields.io/badge/-Spatial%20Reasoning-2d0a3e?style=flat-square&labelColor=ff2e8b)
+![](https://img.shields.io/badge/-SLAM%20%26%20Visual%20Odometry-2d0a3e?style=flat-square&labelColor=ff2e8b)
+![](https://img.shields.io/badge/-Robot%20Learning-2d0a3e?style=flat-square&labelColor=ff2e8b)
+![](https://img.shields.io/badge/-Temporal%20Graph%20Learning-2d0a3e?style=flat-square&labelColor=ff2e8b)
+![](https://img.shields.io/badge/-Reinforcement%20Learning-2d0a3e?style=flat-square&labelColor=ff2e8b)
+![](https://img.shields.io/badge/-AI%20Safety-2d0a3e?style=flat-square&labelColor=ff2e8b)
 
-### `>` tech
+### <span style="color:#ff2e8b">></span> tech
 
 <p>
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-ff2e8b?style=flat-square&logo=c%2B%2B&logoColor=0d0221"/>
+<img src="https://img.shields.io/badge/JavaScript-ff2e8b?style=flat-square&logo=javascript&logoColor=0d0221"/>
+<img src="https://img.shields.io/badge/HTML-ff2e8b?style=flat-square&logo=html5&logoColor=0d0221"/>
+<img src="https://img.shields.io/badge/PHP-ff2e8b?style=flat-square&logo=php&logoColor=0d0221"/>
 <br/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/PyTorch-ff2e8b?style=flat-square&logo=pytorch&logoColor=0d0221"/>
+<img src="https://img.shields.io/badge/TensorFlow-ff2e8b?style=flat-square&logo=tensorflow&logoColor=0d0221"/>
+<img src="https://img.shields.io/badge/OpenCV-ff2e8b?style=flat-square&logo=opencv&logoColor=0d0221"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-ff2e8b?style=flat-square&logo=huggingface&logoColor=0d0221"/>
 <br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-ff2e8b?style=flat-square&logo=numpy&logoColor=0d0221"/>
+<img src="https://img.shields.io/badge/Pandas-ff2e8b?style=flat-square&logo=pandas&logoColor=0d0221"/>
+<img src="https://img.shields.io/badge/scikit--learn-ff2e8b?style=flat-square&logo=scikit-learn&logoColor=0d0221"/>
+<img src="https://img.shields.io/badge/MySQL-ff2e8b?style=flat-square&logo=mysql&logoColor=0d0221"/>
 <br/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-ff2e8b?style=flat-square&logo=linux&logoColor=0d0221"/>
+<img src="https://img.shields.io/badge/Git-ff2e8b?style=flat-square&logo=git&logoColor=0d0221"/>
+<img src="https://img.shields.io/badge/GitHub-ff2e8b?style=flat-square&logo=github&logoColor=0d0221"/>
+<img src="https://img.shields.io/badge/Jupyter-ff2e8b?style=flat-square&logo=jupyter&logoColor=0d0221"/>
+<img src="https://img.shields.io/badge/VS%20Code-ff2e8b?style=flat-square&logo=visual-studio-code&logoColor=0d0221"/>
 </p>
 
 ---
 
-### `>` projects
+### <span style="color:#ff2e8b">></span> projects
 
 <table>
 <tr>
@@ -101,7 +115,7 @@ Always exploring something new.
 
 Exploring spatial reasoning and object grounding in vision-language models.
 
-`Python` `PyTorch` `Hugging Face`
+![](https://img.shields.io/badge/-Python-2d0a3e?style=flat-square&labelColor=ff2e8b) ![](https://img.shields.io/badge/-PyTorch-2d0a3e?style=flat-square&labelColor=ff2e8b) ![](https://img.shields.io/badge/-HF-2d0a3e?style=flat-square&labelColor=ff2e8b)
 
 </td>
 <td width="20%" valign="top">
@@ -110,7 +124,7 @@ Exploring spatial reasoning and object grounding in vision-language models.
 
 Monocular visual odometry with classical and learned feature pipelines.
 
-`Python` `OpenCV` `TensorFlow`
+![](https://img.shields.io/badge/-Python-2d0a3e?style=flat-square&labelColor=ff2e8b) ![](https://img.shields.io/badge/-OpenCV-2d0a3e?style=flat-square&labelColor=ff2e8b) ![](https://img.shields.io/badge/-TensorFlow-2d0a3e?style=flat-square&labelColor=ff2e8b)
 
 </td>
 <td width="20%" valign="top">
@@ -119,7 +133,7 @@ Monocular visual odometry with classical and learned feature pipelines.
 
 Glaucoma detection from retinal fundus images using deep learning.
 
-`Python` `TensorFlow`
+![](https://img.shields.io/badge/-Python-2d0a3e?style=flat-square&labelColor=ff2e8b) ![](https://img.shields.io/badge/-TensorFlow-2d0a3e?style=flat-square&labelColor=ff2e8b)
 
 </td>
 <td width="20%" valign="top">
@@ -128,7 +142,7 @@ Glaucoma detection from retinal fundus images using deep learning.
 
 NLP-based detection of potentially malicious prompts.
 
-`Python` `NLP`
+![](https://img.shields.io/badge/-Python-2d0a3e?style=flat-square&labelColor=ff2e8b) ![](https://img.shields.io/badge/-NLP-2d0a3e?style=flat-square&labelColor=ff2e8b)
 
 </td>
 <td width="20%" valign="top">
@@ -137,7 +151,7 @@ NLP-based detection of potentially malicious prompts.
 
 Web-based document verification using hashing.
 
-`PHP` `HTML` `MySQL`
+![](https://img.shields.io/badge/-PHP-2d0a3e?style=flat-square&labelColor=ff2e8b) ![](https://img.shields.io/badge/-HTML-2d0a3e?style=flat-square&labelColor=ff2e8b) ![](https://img.shields.io/badge/-MySQL-2d0a3e?style=flat-square&labelColor=ff2e8b)
 
 </td>
 </tr>
@@ -148,6 +162,12 @@ Web-based document verification using hashing.
 <div align="center">
 
 
+<picture>
+
+  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e8b,50:2d0a3e,100:0d0221&height=100&section=footer" width="100%"/>
+</picture>
+
+</div>
 
 ## `activity`
 
