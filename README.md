@@ -6,15 +6,17 @@
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="62%" valign="top">
 
 ```
 $ whoami
 ```
-
-# <span style="color:#ff2e8b">MINISSHA</span> THAKUR
+<img
+  src="./assets/name.svg"
+  width="500"
+  alt="Minissha Thakur">
 
 **`AI` · `ROBOTICS` · `COMPUTER VISION`**
 
@@ -29,31 +31,30 @@ exploring ideas, shipping progress.
 <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-ff2e8b?style=for-the-badge&logo=linkedin&logoColor=0d0221" /></a>
 
 </td>
-<td width="38%" align="center">
+<td width="38%" align="center" valign="middle">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/penguin-dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/penguin-light.png" />
-  <img alt="coding penguin" src="./assets/penguin-dark.png" width="280"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minissharest/minissharest/main/assets/penguin-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minissharest/minissharest/main/assets/penguin-light.png" />
+  <img alt="coding penguin" src="https://raw.githubusercontent.com/minissharest/minissharest/main/assets/penguin-dark.png" width="100%"/>
 </picture>
 
 </td>
 </tr>
-</table>
-
-<table>
-<tr><td>
+<tr>
+<td colspan="2">
 
 ```
 $ status
-> code
-> learn
-> build
+> code       building things with software & intelligent systems
+> learn      computer vision · robotics · graph neural networks
+> build      spatialvlm-eval · vo-x · eye-ai · authentify
 > repeat
 > _
 ```
 
-</td></tr>
+</td>
+</tr>
 </table>
 
 ---
@@ -161,9 +162,7 @@ Web-based document verification using hashing.
 
 <div align="center">
 
-
 <picture>
-
   <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e8b,50:2d0a3e,100:0d0221&height=100&section=footer" width="100%"/>
 </picture>
 
