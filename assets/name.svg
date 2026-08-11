@@ -1,0 +1,26 @@
+<svg width="620" height="80" viewBox="0 0 620 80"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="620" height="80" fill="transparent"/>
+
+  <text
+    x="0"
+    y="57"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="52"
+    font-weight="700"
+    fill="#F4F1F3">
+    MINISSHA
+  </text>
+
+  <text
+    x="300"
+    y="57"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="52"
+    font-weight="700"
+    fill="#D45B91">
+    THAKUR
+  </text>
+
+</svg>
