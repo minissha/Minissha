@@ -26,17 +26,27 @@ Building things with code,
 exploring ideas, shipping progress.
 ```
 
-<a href="https://github.com/minissharest"><img src="https://img.shields.io/badge/GitHub-ff2e8b?style=for-the-badge&logo=github&logoColor=0d0221" /></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-ff2e8b?style=for-the-badge&logo=firefox&logoColor=0d0221" /></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-ff2e8b?style=for-the-badge&logo=linkedin&logoColor=0d0221" /></a>
+<a href="https://github.com/minisshat"><img src="https://img.shields.io/badge/GitHub-ff2e8b?style=for-the-badge&logo=github&logoColor=0d0221" /></a>
+<a href="minissha-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-ff2e8b?style=for-the-badge&logo=firefox&logoColor=0d0221" /></a>
+<a href="www.linkedin.com/in/minissha-thakur-3496962a9"><img src="https://img.shields.io/badge/LinkedIn-ff2e8b?style=for-the-badge&logo=linkedin&logoColor=0d0221" /></a>
 
-</td>
 <td width="38%" align="center" valign="middle">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minissharest/minissharest/main/assets/penguin-dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minissharest/minissharest/main/assets/penguin-light.png" />
-  <img alt="coding penguin" src="https://raw.githubusercontent.com/minissharest/minissharest/main/assets/penguin-dark.png" width="100%"/>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/minissha/minissha/main/assets/penguin-dark.png">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/minissha/minissha/main/assets/penguin-light.png">
+
+  <img
+    src="https://raw.githubusercontent.com/minissha/minissha/main/assets/penguin-dark.png"
+    width="330"
+    alt="coding penguin">
+
 </picture>
 
 </td>
