@@ -26,10 +26,17 @@ Building things with code,
 exploring ideas, shipping progress.
 ```
 
-<a href="https://github.com/minisshat"><img src="https://img.shields.io/badge/GitHub-ff2e8b?style=for-the-badge&logo=github&logoColor=0d0221" /></a>
-<a href="minissha-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-ff2e8b?style=for-the-badge&logo=firefox&logoColor=0d0221" /></a>
-<a href="www.linkedin.com/in/minissha-thakur-3496962a9"><img src="https://img.shields.io/badge/LinkedIn-ff2e8b?style=for-the-badge&logo=linkedin&logoColor=0d0221" /></a>
+<a href="https://github.com/minissha">
+  <img src="https://img.shields.io/badge/GitHub-ff2e8b?style=for-the-badge&logo=github&logoColor=0d0221" />
+</a>
 
+<a href="https://minissha-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-ff2e8b?style=for-the-badge&logo=firefox&logoColor=0d0221" />
+</a>
+
+<a href="https://www.linkedin.com/in/minissha-thakur-3496962a9/">
+  <img src="https://img.shields.io/badge/LinkedIn-ff2e8b?style=for-the-badge&logo=linkedin&logoColor=0d0221" />
+</a>
 <td width="38%" align="center" valign="middle">
 
 <picture>
